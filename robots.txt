@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://uidspe.github.io/uqV/sitemap.uqV.gz
